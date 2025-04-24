@@ -1,0 +1,60 @@
+.main1 {
+    height: 300px;
+    width: 300px;
+    background-color: gray;
+    position: relative;
+    top: 10vh;
+    left: 25vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 15px;
+}
+
+.main11 {
+    height: 280px;
+    width: 280px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 15px;
+}
+
+.main2 {
+    height: 300px;
+    width: 300px;
+    background-color: gray;
+    position: absolute;
+    top: 10vh;
+    left: 60vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 15px;
+}
+
+.main21 {
+    height: 280px;
+    width: 280px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 15px;
+
+}
+
+.main2 img {
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+}
